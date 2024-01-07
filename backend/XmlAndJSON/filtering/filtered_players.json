@@ -1,0 +1,172 @@
+[
+    {
+        "id": 14,
+        "first_name": "Ike",
+        "height_feet": "None",
+        "height_inches": "None",
+        "last_name": "Anigbogu",
+        "position": "C",
+        "weight_pounds": "None",
+        "teamID": 12
+    },
+    {
+        "id": 119,
+        "first_name": "Tyler",
+        "height_feet": "None",
+        "height_inches": "None",
+        "last_name": "Davis",
+        "position": "C",
+        "weight_pounds": "None",
+        "teamID": 21
+    },
+    {
+        "id": 179,
+        "first_name": "Marcin",
+        "height_feet": "None",
+        "height_inches": "None",
+        "last_name": "Gortat",
+        "position": "C",
+        "weight_pounds": "None",
+        "teamID": 13
+    },
+    {
+        "id": 241,
+        "first_name": "Amir",
+        "height_feet": "6",
+        "height_inches": "9",
+        "last_name": "Johnson",
+        "position": "C-F",
+        "weight_pounds": "240",
+        "teamID": 23
+    },
+    {
+        "id": 263,
+        "first_name": "Kosta",
+        "height_feet": "7",
+        "height_inches": "0",
+        "last_name": "Koufos",
+        "position": "C",
+        "weight_pounds": "245",
+        "teamID": 26
+    },
+    {
+        "id": 384,
+        "first_name": "Zhou",
+        "height_feet": "None",
+        "height_inches": "None",
+        "last_name": "Qi",
+        "position": "F-C",
+        "weight_pounds": "None",
+        "teamID": 11
+    },
+    {
+        "id": 14,
+        "first_name": "Ike",
+        "height_feet": "None",
+        "height_inches": "None",
+        "last_name": "Anigbogu",
+        "position": "C",
+        "weight_pounds": "None",
+        "teamID": 12
+    },
+    {
+        "id": 119,
+        "first_name": "Tyler",
+        "height_feet": "None",
+        "height_inches": "None",
+        "last_name": "Davis",
+        "position": "C",
+        "weight_pounds": "None",
+        "teamID": 21
+    },
+    {
+        "id": 179,
+        "first_name": "Marcin",
+        "height_feet": "None",
+        "height_inches": "None",
+        "last_name": "Gortat",
+        "position": "C",
+        "weight_pounds": "None",
+        "teamID": 13
+    },
+    {
+        "id": 241,
+        "first_name": "Amir",
+        "height_feet": "6",
+        "height_inches": "9",
+        "last_name": "Johnson",
+        "position": "C-F",
+        "weight_pounds": "240",
+        "teamID": 23
+    },
+    {
+        "id": 263,
+        "first_name": "Kosta",
+        "height_feet": "7",
+        "height_inches": "0",
+        "last_name": "Koufos",
+        "position": "C",
+        "weight_pounds": "245",
+        "teamID": 26
+    },
+    {
+        "id": 384,
+        "first_name": "Zhou",
+        "height_feet": "None",
+        "height_inches": "None",
+        "last_name": "Qi",
+        "position": "F-C",
+        "weight_pounds": "None",
+        "teamID": 11
+    },
+    {
+        "id": 1034,
+        "first_name": "Todd",
+        "height_feet": "None",
+        "height_inches": "None",
+        "last_name": "Fuller",
+        "position": "C",
+        "weight_pounds": "None",
+        "teamID": 10
+    },
+    {
+        "id": 1107,
+        "first_name": "Zydrunas",
+        "height_feet": "None",
+        "height_inches": "None",
+        "last_name": "Ilgauskas",
+        "position": "C",
+        "weight_pounds": "None",
+        "teamID": 6
+    },
+    {
+        "id": 1193,
+        "first_name": "Raef",
+        "height_feet": "None",
+        "height_inches": "None",
+        "last_name": "LaFrentz",
+        "position": "C",
+        "weight_pounds": "None",
+        "teamID": 8
+    },
+    {
+        "id": 1408,
+        "first_name": "Pat",
+        "height_feet": "None",
+        "height_inches": "None",
+        "last_name": "Burke",
+        "position": "C",
+        "weight_pounds": "None",
+        "teamID": 22
+    },
+    {
+        "id": 1436,
+        "first_name": "Dan",
+        "height_feet": "None",
+        "height_inches": "None",
+        "last_name": "Gadzuric",
+        "position": "C",
+        "weight_pounds": "None",
+        "teamID": 17
+    }
+]

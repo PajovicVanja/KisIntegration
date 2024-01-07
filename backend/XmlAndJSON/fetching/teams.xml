@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<teams>
+  <team>
+    <id>1</id>
+    <abbreviation>ATL</abbreviation>
+    <city>Atlanta</city>
+    <conference>East</conference>
+    <division>Southeast</division>
+    <full_name>Atlanta Hawks</full_name>
+    <name>Hawks</name>
+  </team>
+  <team>
+    <id>2</id>
+    <abbreviation>BOS</abbreviation>
+    <city>Boston</city>
+    <conference>East</conference>
+    <division>Atlantic</division>
+    <full_name>Boston Celtics</full_name>
+    <name>Celtics</name>
+  </team>
+  <team>
+    <id>3</id>
+    <abbreviation>BKN</abbreviation>
+    <city>Brooklyn</city>
+    <conference>East</conference>
+    <division>Atlantic</division>
+    <full_name>Brooklyn Nets</full_name>
+    <name>Nets</name>
+  </team>
+  <team>
+    <id>4</id>
+    <abbreviation>CHA</abbreviation>
+    <city>Charlotte</city>
+    <conference>East</conference>
+    <division>Southeast</division>
+    <full_name>Charlotte Hornets</full_name>
+    <name>Hornets</name>
+  </team>
+  <team>
+    <id>5</id>
+    <abbreviation>CHI</abbreviation>
+    <city>Chicago</city>
+    <conference>East</conference>
+    <division>Central</division>
+    <full_name>Chicago Bulls</full_name>
+    <name>Bulls</name>
+  </team>
+  <team>
+    <id>6</id>
+    <abbreviation>CLE</abbreviation>
+    <city>Cleveland</city>
+    <conference>East</conference>
+    <division>Central</division>
+    <full_name>Cleveland Cavaliers</full_name>
+    <name>Cavaliers</name>
+  </team>
+  <team>
+    <id>7</id>
+    <abbreviation>DAL</abbreviation>
+    <city>Dallas</city>
+    <conference>West</conference>
+    <division>Southwest</division>
+    <full_name>Dallas Mavericks</full_name>
+    <name>Mavericks</name>
+  </team>
+  <team>
+    <id>8</id>
+    <abbreviation>DEN</abbreviation>
+    <city>Denver</city>
+    <conference>West</conference>
+    <division>Northwest</division>
+    <full_name>Denver Nuggets</full_name>
+    <name>Nuggets</name>
+  </team>
+  <team>
+    <id>9</id>
+    <abbreviation>DET</abbreviation>
+    <city>Detroit</city>
+    <conference>East</conference>
+    <division>Central</division>
+    <full_name>Detroit Pistons</full_name>
+    <name>Pistons</name>
+  </team>
+  <team>
+    <id>10</id>
+    <abbreviation>GSW</abbreviation>
+    <city>Golden State</city>
+    <conference>West</conference>
+    <division>Pacific</division>
+    <full_name>Golden State Warriors</full_name>
+    <name>Warriors</name>
+  </team>
+  <team>
+    <id>11</id>
+    <abbreviation>HOU</abbreviation>
+    <city>Houston</city>
+    <conference>West</conference>
+    <division>Southwest</division>
+    <full_name>Houston Rockets</full_name>
+    <name>Rockets</name>
+  </team>
+  <team>
+    <id>12</id>
+    <abbreviation>IND</abbreviation>
+    <city>Indiana</city>
+    <conference>East</conference>
+    <division>Central</division>
+    <full_name>Indiana Pacers</full_name>
+    <name>Pacers</name>
+  </team>
+  <team>
+    <id>13</id>
+    <abbreviation>LAC</abbreviation>
+    <city>LA</city>
+    <conference>West</conference>
+    <division>Pacific</division>
+    <full_name>LA Clippers</full_name>
+    <name>Clippers</name>
+  </team>
+  <team>
+    <id>14</id>
+    <abbreviation>LAL</abbreviation>
+    <city>Los Angeles</city>
+    <conference>West</conference>
+    <division>Pacific</division>
+    <full_name>Los Angeles Lakers</full_name>
+    <name>Lakers</name>
+  </team>
+  <team>
+    <id>15</id>
+    <abbreviation>MEM</abbreviation>
+    <city>Memphis</city>
+    <conference>West</conference>
+    <division>Southwest</division>
+    <full_name>Memphis Grizzlies</full_name>
+    <name>Grizzlies</name>
+  </team>
+  <team>
+    <id>16</id>
+    <abbreviation>MIA</abbreviation>
+    <city>Miami</city>
+    <conference>East</conference>
+    <division>Southeast</division>
+    <full_name>Miami Heat</full_name>
+    <name>Heat</name>
+  </team>
+  <team>
+    <id>17</id>
+    <abbreviation>MIL</abbreviation>
+    <city>Milwaukee</city>
+    <conference>East</conference>
+    <division>Central</division>
+    <full_name>Milwaukee Bucks</full_name>
+    <name>Bucks</name>
+  </team>
+  <team>
+    <id>18</id>
+    <abbreviation>MIN</abbreviation>
+    <city>Minnesota</city>
+    <conference>West</conference>
+    <division>Northwest</division>
+    <full_name>Minnesota Timberwolves</full_name>
+    <name>Timberwolves</name>
+  </team>
+  <team>
+    <id>19</id>
+    <abbreviation>NOP</abbreviation>
+    <city>New Orleans</city>
+    <conference>West</conference>
+    <division>Southwest</division>
+    <full_name>New Orleans Pelicans</full_name>
+    <name>Pelicans</name>
+  </team>
+  <team>
+    <id>20</id>
+    <abbreviation>NYK</abbreviation>
+    <city>New York</city>
+    <conference>East</conference>
+    <division>Atlantic</division>
+    <full_name>New York Knicks</full_name>
+    <name>Knicks</name>
+  </team>
+  <team>
+    <id>21</id>
+    <abbreviation>OKC</abbreviation>
+    <city>Oklahoma City</city>
+    <conference>West</conference>
+    <division>Northwest</division>
+    <full_name>Oklahoma City Thunder</full_name>
+    <name>Thunder</name>
+  </team>
+  <team>
+    <id>22</id>
+    <abbreviation>ORL</abbreviation>
+    <city>Orlando</city>
+    <conference>East</conference>
+    <division>Southeast</division>
+    <full_name>Orlando Magic</full_name>
+    <name>Magic</name>
+  </team>
+  <team>
+    <id>23</id>
+    <abbreviation>PHI</abbreviation>
+    <city>Philadelphia</city>
+    <conference>East</conference>
+    <division>Atlantic</division>
+    <full_name>Philadelphia 76ers</full_name>
+    <name>76ers</name>
+  </team>
+  <team>
+    <id>24</id>
+    <abbreviation>PHX</abbreviation>
+    <city>Phoenix</city>
+    <conference>West</conference>
+    <division>Pacific</division>
+    <full_name>Phoenix Suns</full_name>
+    <name>Suns</name>
+  </team>
+  <team>
+    <id>25</id>
+    <abbreviation>POR</abbreviation>
+    <city>Portland</city>
+    <conference>West</conference>
+    <division>Northwest</division>
+    <full_name>Portland Trail Blazers</full_name>
+    <name>Trail Blazers</name>
+  </team>
+  <team>
+    <id>26</id>
+    <abbreviation>SAC</abbreviation>
+    <city>Sacramento</city>
+    <conference>West</conference>
+    <division>Pacific</division>
+    <full_name>Sacramento Kings</full_name>
+    <name>Kings</name>
+  </team>
+  <team>
+    <id>27</id>
+    <abbreviation>SAS</abbreviation>
+    <city>San Antonio</city>
+    <conference>West</conference>
+    <division>Southwest</division>
+    <full_name>San Antonio Spurs</full_name>
+    <name>Spurs</name>
+  </team>
+  <team>
+    <id>28</id>
+    <abbreviation>TOR</abbreviation>
+    <city>Toronto</city>
+    <conference>East</conference>
+    <division>Atlantic</division>
+    <full_name>Toronto Raptors</full_name>
+    <name>Raptors</name>
+  </team>
+  <team>
+    <id>29</id>
+    <abbreviation>UTA</abbreviation>
+    <city>Utah</city>
+    <conference>West</conference>
+    <division>Northwest</division>
+    <full_name>Utah Jazz</full_name>
+    <name>Jazz</name>
+  </team>
+  <team>
+    <id>30</id>
+    <abbreviation>WAS</abbreviation>
+    <city>Washington</city>
+    <conference>East</conference>
+    <division>Southeast</division>
+    <full_name>Washington Wizards</full_name>
+    <name>Wizards</name>
+  </team>
+</teams>
